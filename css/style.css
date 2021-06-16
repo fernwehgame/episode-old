@@ -1,3 +1,11 @@
+@font-face {
+    font-family: "bauhaus";
+    src: url("../font/bauhaus/bauhausregular.ttf");
+}
+
+
+
+
 #bg {
   position: fixed; 
   top: 0; 
