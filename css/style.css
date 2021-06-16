@@ -10,6 +10,12 @@
 }
 
 
+@font-face{
+	font-family: 'Bauhaus';
+	src: url('../font/bauhaus/BauhausBold.ttf')  format('truetype');
+}
+
+
 
 #bg {
   position: fixed; 
