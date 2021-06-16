@@ -1,8 +1,11 @@
 @font-face {
     font-family: "bauhaus";
-    src: url("../font/bauhaus/BauhausBold.ttf") format("truetype")
+    src: url("../font/bauhaus/BauhausBold.ttf") format("truetype");
 }
-
+@font-face {
+    font-family: "lato";
+    src: url("../font/lato/lato-regular.ttf") format("truetype");
+}
 
 
 
